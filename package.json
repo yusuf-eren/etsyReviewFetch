@@ -1,0 +1,19 @@
+{
+  "name": "etsyreviewfetch",
+  "version": "1.0.0",
+  "description": "Etsy Review Fetcher",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "4.x",
+    "fs": "0.0.1-security",
+    "node-fetch": "^2.6.7"
+  },
+  "engines": {
+    "node": ">=12 <15"
+  },
+  "license": "MIT"
+}
