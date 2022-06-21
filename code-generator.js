@@ -24,5 +24,5 @@ console.log(`State: ${state}`);
 console.log(`Code challenge: ${codeChallenge}`);
 console.log(`Code verifier: ${codeVerifier}`);
 console.log(
-  `Full URL: https://www.etsy.com/oauth/connect?response_type=code&redirect_uri=http://localhost:3004/oauth/redirect&scope=email_r&client_id=6xhwtnjudbrqsjpocccu6dvx&state=${state}&code_challenge=${codeChallenge}&code_challenge_method=S256`
+  `Full URL: https://www.etsy.com/oauth/connect?response_type=code&redirect_uri=http://localhost:3005/oauth/redirect&scope=email_r&client_id=6xhwtnjudbrqsjpocccu6dvx&state=${state}&code_challenge=${codeChallenge}&code_challenge_method=S256`
 );

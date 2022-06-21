@@ -10,6 +10,8 @@
     "ejs": "^3.1.8",
     "express": "4.x",
     "fs": "0.0.1-security",
+    "mongodb": "^4.7.0",
+    "mongoose": "^6.3.6",
     "node-fetch": "^2.6.7"
   },
   "engines": {
